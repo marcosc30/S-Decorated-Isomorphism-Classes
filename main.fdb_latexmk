@@ -1,17 +1,16 @@
 # Fdb version 4
-["bibtex main"] 1709598201.13658 "main.aux" "main.bbl" "main" 1709598252.27333 0
+["bibtex main"] 1724940402.79251 "main.aux" "main.bbl" "main" 1724940416.36059 0
   "./Bibliography.bib" 1709587358 2307 6b481be0daba814590911c8431cf646f ""
   "c:/texlive/2023/texmf-dist/bibtex/bst/base/abbrv.bst" 1706556285 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "main.aux" 1709598248 1632 67bd24a8845baa7ee15afdb1170185fb "pdflatex"
+  "main.aux" 1724940412 1632 67bd24a8845baa7ee15afdb1170185fb "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1709598241.11604 "c:/Users/Marcos/Documents/Graph Theory/Midterm 1/main.tex" "main.pdf" "main" 1709598252.27706 0
-  "IMG_0705.jpg" 1709597893 1244912 fecdb9974e8a6bdbe07ba68d78dc11c9 ""
+["pdflatex"] 1724940404.45124 "c:/Users/Marcos/Documents/Graph Theory/S-Decorated Isomorphism Classes/main.tex" "main.pdf" "main" 1724940416.36246 0
   "Results.png" 1709565810 94613 38d1110c30b01340d82c628590878654 ""
   "basefunctions.png" 1709567023 287194 fc7fe36aaa1e6aea5bf0869eefb157a4 ""
-  "c:/Users/Marcos/Documents/Graph Theory/Midterm 1/main.tex" 1709598238 23063 000b1b9fe092b062c0613c7a995f660c ""
+  "c:/Users/Marcos/Documents/Graph Theory/S-Decorated Isomorphism Classes/main.tex" 1724940378 23029 47cabded391560c76ae682d6e9a41f40 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1706557502 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1706556786 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1706558142 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -256,10 +255,10 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1706564046 5035139 e8cdab388a5f122f6094769190400852 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1706564213 8211034 6758517ca4af7392dfe13f82839635f3 ""
   "c:/texlive/2023/texmf.cnf" 1706563989 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1709598248 1632 67bd24a8845baa7ee15afdb1170185fb "pdflatex"
-  "main.bbl" 1709598203 909 7f0994e0ed75470d7b2f8d00c1ae1a96 "bibtex main"
-  "main.out" 1709598248 513 6173218c902478635d3213ffd2088019 "pdflatex"
-  "main.tex" 1709598238 23063 000b1b9fe092b062c0613c7a995f660c ""
+  "main.aux" 1724940412 1632 67bd24a8845baa7ee15afdb1170185fb "pdflatex"
+  "main.bbl" 1724940404 909 7f0994e0ed75470d7b2f8d00c1ae1a96 "bibtex main"
+  "main.out" 1724940412 513 6173218c902478635d3213ffd2088019 "pdflatex"
+  "main.tex" 1724940378 23029 47cabded391560c76ae682d6e9a41f40 ""
   "optimizedfunction.png" 1709567685 233875 23fd804913cb5afae699954414f20b14 ""
   "pythontex-files-main/main.pytxmcr" 0 -1 0 ""
   (generated)

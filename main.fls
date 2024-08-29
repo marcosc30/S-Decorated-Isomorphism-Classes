@@ -1,8 +1,8 @@
-PWD c:/Users/Marcos/Documents/Graph Theory/Midterm 1
+PWD c:/Users/Marcos/Documents/Graph Theory/S-Decorated Isomorphism Classes
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Marcos/Documents/Graph Theory/Midterm 1/main.tex
+INPUT c:/Users/Marcos/Documents/Graph Theory/S-Decorated Isomorphism Classes/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/amscls/amsart.cls
 INPUT c:/texlive/2023/texmf-dist/tex/latex/amscls/amsart.cls
@@ -435,11 +435,6 @@ INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
-INPUT ./IMG_0705.jpg
-INPUT ./IMG_0705.jpg
-INPUT ./IMG_0705.jpg
-INPUT ./IMG_0705.jpg
-INPUT ./IMG_0705.jpg
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplrc9e.tfm
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
